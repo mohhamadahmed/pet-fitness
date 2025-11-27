@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Pet Fitness",
+    "slug": "pet-fitness",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {},
+    "web": {}
+  }
+}
